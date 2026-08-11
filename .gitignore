@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Uploaded files
+backend/src/uploads/
+backend/uploads/
+uploads/
+
+# Logs
+*.log
+npm-debug.log*
