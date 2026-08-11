@@ -4,25 +4,25 @@ Upload a PDF → the application processes it → creates embeddings → stores 
 ARCHITECTURE:-
    
   PDF
-  ↓
+  ➡️
 LangChain Document Loader
- ↓
+  ➡️
 Text Splitter
- ↓
+  ➡️
 Gemini Embeddings
- ↓
+  ➡️
 ChromaDB
- ↓
+  ➡️
 User Question
- ↓
+  ➡️
 Query Embedding
- ↓
+  ➡️
 Similarity Search
- ↓
+  ➡️
 Relevant Chunks
- ↓
+  ➡️
 Gemini LLM
- ↓
+  ➡️
 Answer
 
 
