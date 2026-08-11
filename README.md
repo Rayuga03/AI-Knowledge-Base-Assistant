@@ -1,6 +1,6 @@
 # AI-Knowledge-Base-Assistant
-./IMG_5878.jpeg
-./IMG_5882.jpeg
+![AI Knowledge Base Assistant](./IMG_5878.jpeg)
+![Source Document](./IMG_5882.jpeg)
 
 Upload a PDF → the application processes it → creates embeddings → stores them in ChromaDB → retrieves relevant information → Gemini LLM generates an answer.
 
